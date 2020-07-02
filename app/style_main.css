@@ -1,0 +1,435 @@
+html{
+    width:100%;
+}
+
+
+body{
+    width: 100%;
+    margin: 0;
+    font-family: Arial;
+    background-color:#e6e6e6;
+
+}
+
+table{
+    width:98%;
+    background-color: white;
+    margin-bottom: 5%;
+    margin: 1%;
+}
+
+table td{
+    text-align: center;
+}
+
+
+
+#header{
+    background-color: forestgreen;
+    width: 100%;
+    padding-top:1%;
+    padding-bottom: 1%;
+    font-size: 150%;
+    color:white;
+    display: inline-block;
+}
+
+
+#logo{
+    margin-left: 2%;
+    font-size: 130%;
+    font-weight: bold;
+    display:inline-block;
+
+}
+
+#username{
+    float: right;
+    margin-right: 2%;
+    font-size: 80%;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#profile{
+    float: right;
+    margin-right: 2%;
+
+}
+
+
+
+#nav_bar{
+    width: 100%;
+    background-color: rgb(44, 204, 84);
+    margin-bottom: 2%;
+    color: white;
+    font-weight: bold;
+    font-size: 120%;
+}
+
+#nav_bar_content{
+    list-style-type: none;
+    overflow: hidden;
+    margin:0;
+}
+
+.nav_item{
+    float: left;
+    margin-right: 2%;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:link,a:visited{
+    color: white;
+}
+
+#main_container{
+    width: 72%;
+    /*background-color: orange;*/
+    float:left;
+}
+
+#right_side_container{
+    width: 27%;
+    display: inline-block;
+    margin-top:1%;
+    text-align: center;
+    /*background-color:;*/
+}
+
+.mid_container{
+    padding-bottom: 1%;
+    margin: 2%;
+    /* background-color: rgb(44, 204, 84); */
+    background-color:#00b33c;
+    text-align: center ;
+}
+
+
+
+#sidebar{
+    margin: 2%;
+    /* background-color: rgb(44, 204, 84); */
+    background-color:#00b33c;
+    padding: 1%;
+    width:94%;
+}
+
+
+
+
+#content_container{
+    /*background-color: blue;*/
+    padding-top:1%;
+    padding-bottom: 1%;
+    margin-bottom: 1%;
+    width: 65%;
+    margin-left: 17.5%;
+    background-color:#00b33c;
+    text-align: center;
+}
+
+
+
+#profile{
+    cursor: pointer;
+    position: relative;
+    display: inline-block;
+    width:10%;
+    color:blue;
+
+}
+
+#profile_title:hover{
+    font-size: 110%;
+}
+
+
+#profile_title{
+    width: 100%;
+    color:white;
+    position: relative;
+    display: inline-block;
+
+}
+
+#profile_options ul{
+    list-style-type: none;
+    margin:0;
+    padding:0;
+}
+
+
+#account_change_link{
+    color: blue;
+}
+
+
+#profile_options{
+    display: none;
+    width: 98%;
+    background-color: white ;
+    position: absolute;
+    z-index:1;
+    overflow: auto;
+    padding:1%;
+
+}
+
+#profile_options li{
+    margin-top:5%;
+    font-size: 70%;
+}
+
+
+#signout{
+    background-color: blue;
+    z-index: 1;
+    top:0;
+    position:fixed;
+    top:20%;
+    left:30%;
+    width: 40%;
+    /* z-index:100; */
+    padding: 3%;
+    display:none;
+}
+
+#row_date_break td{
+    padding-top: 2%;
+}
+
+#row_break td{
+    padding-bottom:2%;
+}
+
+#solo_table{
+    width:92%;
+    margin-left:4%;
+    border-collapse: collapse;
+}
+
+#side_table{
+    width:96%;
+    margin-left: 2%;
+    border-collapse: collapse;
+}
+
+h2{
+    color:white;
+}
+
+h3{
+    padding-top:1%;
+
+    color:white;
+}
+
+#pred_filter{
+    color:white; 
+    float:left;
+    margin-left:4%;
+}
+
+.pred_row{
+    color:green;
+}
+
+.result_row{
+    color:#cc3300;
+}
+
+#signout{
+    background-color:#e6e6e6;
+    border-width:2px;
+    border-style:solid;
+    border-color:green;
+    text-align: center;
+}
+
+#signout_buttons{
+    width:40%;
+    margin-left:30%;
+ 
+}
+
+#signout_button{
+    display:inline-block;
+    float:left;
+}
+
+
+#cancel_button{ 
+    display:inline-block;
+}
+
+#content_container p{
+    color:white;
+}
+
+#form_container{
+    /* background-color: red; */
+    color:white;
+    width:40%;
+    margin-left:25%;
+    text-align: right;
+}
+
+#points_column{
+    border-bottom: 2px solid black;
+}
+
+#user_score_container{
+    color:white;
+    float:right;
+    margin-right:5%;
+    
+}
+
+#site_score_container{
+    color:white;
+    float:right;
+    margin-right:5%;
+    
+}
+
+.points{
+    color: #1760e7;
+}
+
+
+@media only screen and (min-width:150px) and (max-width:700px){
+
+
+
+#main_container{
+    width:90%;
+    margin-left:5%;
+}
+
+#right_side_container{
+    width:90%;
+    margin-left: 5%;
+}
+#content_container{
+    width:90%;
+    margin-left: 5%;
+}
+#solo_table{
+    width:90%;
+    margin-left:5%;
+    /* font-size: 50%; */
+}
+
+#solo_table td{
+}
+.nav_item{
+    width:45%;
+    text-align: center;
+}
+#pred_filter{
+    margin-left:5%;
+    width: 80%;
+    font-size: 80%;
+    
+}
+
+#pred_filter input[type = "submit"]{
+    font-size: 75%;
+    margin-bottom: 2%;
+}
+
+h2{
+    font-size: 90%;
+}
+
+#profile{
+    width:20%;
+    font-size:80%;
+}
+
+}
+@media only screen and (min-width:150px) and (max-width:700px){
+    #solo_table{
+        font-size: 60%;
+}
+.mid_container{
+    font-size: 60%;
+}
+
+#solo_table td{
+    font-size: 90%;
+}
+
+#solo_table input{
+    width:20%;
+}
+
+#right_side_container{
+    font-size:75%;
+}
+}
+
+@media only screen and (min-width:1000px) and (max-width:1400px){
+
+    #main_container{
+        width: 64%;
+        
+    }
+    #right_side_container{
+        width:35%;
+    }
+
+}
+
+@media only screen and (min-width:150px) and (max-width:1000px){
+
+    html{
+        font-size:90%;
+    }
+    
+    #main_container{
+        width:90%;
+        margin-left:5%;
+    }
+    
+    #right_side_container{
+        width:90%;
+        margin-left: 5%;
+    }
+    #content_container{
+        width:90%;
+        margin-left: 5%;
+    }
+    #solo_table{
+        width:90%;
+        margin-left:5%;
+        /* font-size: 50%; */
+    }
+    
+    #solo_table td{
+    }
+    /* .nav_item{
+        width:45%;
+        text-align: center;
+    } */
+    #pred_filter{
+        margin-left:5%;
+        width: 80%;
+        font-size: 80%;
+    }
+    
+    #pred_filter input[type = "submit"]{
+        font-size: 75%;
+        margin-bottom: 2%;
+    }
+    
+    h2{
+        font-size: 90%;
+    }
+    
+    }

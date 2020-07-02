@@ -1,0 +1,35 @@
+Saturday 9 March 2019,Crystal Palace  ,Brighton and Hove Albion,1.0,2.0
+Saturday 9 March 2019,Cardiff City,West Ham United,2.0,2.0
+Saturday 9 March 2019,Huddersfield Town,AFC Bournemouth,2.0,1.0
+Saturday 9 March 2019,Leicester City, Fulham,2.0,1.0
+Saturday 9 March 2019,Newcastle United, Everton,3.0,1.0
+Saturday 9 March 2019,Southampton  ,Tottenham Hotspur,2.0,1.0
+Saturday 9 March 2019,Manchester City, Watford,1.0,2.0
+Sunday 10 March 2019,Liverpool  , Burnley,1.0,2.0
+Sunday 10 March 2019,Chelsea  ,Wolverhampton Wanderers,2.0,1.0
+Sunday 10 March 2019,Arsenal  ,Manchester United,2.0,1.0
+Saturday 16 March 2019,AFC Bournemouth,Newcastle United,3.0,1.0
+Saturday 16 March 2019,Burnley  ,Leicester City,1.0,1.0
+Saturday 16 March 2019,West Ham United,Huddersfield Town,2.0,1.0
+Sunday 17 March 2019,Fulham  , Liverpool,1.0,2.0
+Sunday 17 March 2019,Everton  , Chelsea,3.0,1.0
+Saturday 30 March 2019,Fulham  ,Manchester City,3.0,2.0
+Saturday 30 March 2019,Brighton and Hove Albion, Southampton,2.0,1.0
+Saturday 30 March 2019,Burnley  ,Wolverhampton Wanderers,1.0,2.0
+Saturday 30 March 2019,Crystal Palace  ,Huddersfield Town,1.0,1.0
+Saturday 30 March 2019,Leicester City,AFC Bournemouth,2.0,2.0
+Saturday 30 March 2019,Manchester United, Watford,4.0,1.0
+Saturday 30 March 2019,West Ham United, Everton,3.0,1.0
+Sunday 31 March 2019,Cardiff City, Chelsea,2.0,1.0
+Sunday 31 March 2019,Liverpool  ,Tottenham Hotspur,2.0,1.0
+Monday 1 April 2019,Arsenal  ,Newcastle United,1.0,2.0
+Tuesday 2 April 2019,Wolverhampton Wanderers,Manchester United,1.0,2.0
+Friday 5 April 2019,Southampton  , Liverpool,2.0,1.0
+Saturday 6 April 2019,Manchester City,Cardiff City,1.0,2.0
+Saturday 6 April 2019,AFC Bournemouth, Burnley,1.0,2.0
+Saturday 6 April 2019,Huddersfield Town,Leicester City,2.0,1.0
+Saturday 6 April 2019,Newcastle United, Crystal Palace,1.0,1.0
+Saturday 6 April 2019,Watford  , Fulham,0.0,2.0
+Sunday 7 April 2019,Everton  , Arsenal,3.0,2.0
+Sunday 7 April 2019,Tottenham Hotspur,Brighton and Hove Albion,4.0,1.0
+Monday 8 April 2019,Chelsea  ,West Ham United,3.0,1.0
